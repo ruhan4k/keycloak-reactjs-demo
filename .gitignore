@@ -24,3 +24,7 @@ yarn-error.log*
 .idea
 *.iml
 .eslintcache
+
+
+# Other
+public/keycloak_*

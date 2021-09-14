@@ -1,7 +1,8 @@
 {
-  "realm": "demo",
-  "auth-server-url": "http://localhost:8080/auth",
-  "ssl-required": "external",
-  "resource": "bookBox",
-  "public-client": true
+  "realm": "FKIntegration",
+  "auth-server-url": "https://keycloak-dev.fourkites.com/auth",
+  "ssl-required": "none",
+  "resource": "integration-ui",
+  "public-client": true,
+  "scope": "offline_access user_impersonation"
 }
