@@ -1,0 +1,7 @@
+{
+  "realm": "FKIntegration",
+  "auth-server-url": "https://keycloak.fourkites.com/auth",
+  "ssl-required": "all",
+  "resource": "integration-ui",
+  "public-client": true
+}

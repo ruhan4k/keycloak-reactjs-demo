@@ -1,0 +1,7 @@
+{
+  "realm": "FKIntegration",
+  "auth-server-url": "http://localhost:28080/auth",
+  "ssl-required": "none",
+  "resource": "integration-ui",
+  "public-client": true
+}
